@@ -1,3 +1,7 @@
+# Decentralized Agriculture
+
+Experiment project to test how we can use web3 to benefit small-scale organic farmers.
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
