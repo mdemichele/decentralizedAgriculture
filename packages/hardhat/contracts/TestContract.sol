@@ -11,4 +11,8 @@ contract ProduceContract {
     constructor(address _owner) {
         owner = _owner;
     }
+
+    setOwner(address o) {
+        owner = o;
+    }
 }
